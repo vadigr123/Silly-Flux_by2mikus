@@ -1,4 +1,4 @@
-# Silly Flux + LoRA on Colab by:: mikus
+# **Silly Flux + LoRA on Colab by:: mikus**
 
 ## How to Use LoRA:
 
@@ -20,4 +20,4 @@ https://huggingface.co/camenduru/FLUX.1-dev/blob/main/flux_realism_lora.safetens
 
 ---
 
-If you have any questions, feel free to join my Discord server or the author's Discord server.
+If you have any questions, feel free to join [**my Discord server**](https://discord.com/invite/UtYvGwFfvx) or [**the author's Discord server**](https://discord.com/invite/k5BwmmvJJU).
