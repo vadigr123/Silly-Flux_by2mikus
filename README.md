@@ -8,9 +8,8 @@
 
 ### Example:
 
-```text
+
 https://huggingface.co/camenduru/FLUX.1-dev/blob/main/flux_realism_lora.safetensors
-```
 
 ## In this example:
 - `camenduru/FLUX.1-dev` is the repository name.
