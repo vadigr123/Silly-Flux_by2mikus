@@ -15,7 +15,8 @@ https://huggingface.co/camenduru/FLUX.1-dev/blob/main/flux_realism_lora.safetens
 - `flux_realism_lora` is the LoRA name.
 
 ## Notes:
-- Currently, LoRA can only be downloaded from Google Drive or Hugging Face. Civitai support is not available yet (I honestly tried to make it work, please don't bite me).
+- ~~Currently, LoRA can only be downloaded from Google Drive or Hugging Face. Civitai support is not available yet (I honestly tried to make it work, please don't bite me).~~  
+  Thanks to [Eddycrack864](https://github.com/Eddycrack864), you can now use private models from Hugging Face, but Civitai support is still uncertain.  
 - You can only use one LoRA at a time.
 
 ---
